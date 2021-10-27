@@ -1,2 +1,7 @@
 # coin-flip
-Coin Flip with three.js
+Coin Flip with 
+
+three.js
+tween.js
+vite.js
+
