@@ -1,6 +1,6 @@
 # coin-flip
 
-![Screenshot](resources/cover.PNG)
+![Screenshot](public/resources/cover.PNG)
 
 Coin Flip with 
 
